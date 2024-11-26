@@ -1,12 +1,12 @@
 {
-  "name": "@phosphor-icons/core",
+  "name": "@gdc-phosphor-icons/core",
   "version": "2.1.1",
   "description": "Icon catalog and assets for Phosphor",
   "license": "MIT",
-  "repository": "https://github.com/phosphor-icons/phosphor-core.git",
+  "repository": "flaviengdc/phosphor-core",
   "private": false,
   "publishConfig": {
-    "access": "public"
+    "registry": "https://verdaccio.gensdeconfiance.com"
   },
   "main": "./dist/index.umd.js",
   "module": "./dist/index.mjs",
